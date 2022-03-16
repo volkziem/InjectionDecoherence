@@ -38,7 +38,7 @@ for n=1:length(nn)
 end
 
 %..................only display below
-set(gcf,'Position',[3200,100,1200,800])
+set(gcf,'Position',[200,100,1200,800])
 subplot(3,1,1)
 plot(nn,data(:,1),'k','LineWidth',2); 
 xlabel('Number of turns n'); ylabel('X_1'); legend('Position X_1')
