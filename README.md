@@ -1,5 +1,5 @@
 # InjectionDecoherence
-The matlab scripts prepare the plots shown in the forthcoming report 
+The Matlab scripts prepare the plots shown in the forthcoming report 
 
 - E. Waagard, V. Ziemann: Emittance growth of kicked and mismatched beams due to amplitude-dependent tuneshift
 
