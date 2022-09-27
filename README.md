@@ -1,7 +1,7 @@
 # InjectionDecoherence
 The Matlab scripts prepare the plots shown in the forthcoming report 
 
-- E. Waagard, V. Ziemann: *Emittance growth of kicked and mismatched beams due to amplitude-dependent tune shift*, [arxiv:2203.09259](https://arxiv.org/abs/2203.09259)
+- E. Waagard, V. Ziemann: *Emittance growth of kicked and mismatched beams due to amplitude-dependent tune shift*, [arxiv:2203.09259](https://arxiv.org/abs/2203.09259) and [Physical Review Accelerators and Beams 25 (2022) 054001](https://link.aps.org/doi/10.1103/PhysRevAccelBeams.25.054001).
 
 that show the evolution of the beam centroids, the beam matrix and the emittance after injecting into a ring 
 that contains non-linearities causing amplitude-dependent tune shift. The following image from the report may serve as an illustration
